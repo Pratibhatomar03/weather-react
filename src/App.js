@@ -1,9 +1,9 @@
 import React from "react";
 
 import "./App.css";
-import GeneralInformation from "./GeneralInformation";
+import GeneralInformation from "./GeneralInformation.js";
 import Form from "./Form.js";
-import CurrentTemperature from "./CurrentTemperature";
+import CurrentTemperature from "./CurrentTemperature.js";
 
 export default function App() {
   return (
