@@ -1,10 +1,11 @@
-import "./App.css";
+import React from "react";
 
+import "./App.css";
 import GeneralInformation from "./GeneralInformation";
 import Form from "./Form.js";
 import CurrentTemperature from "./CurrentTemperature";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <div className="container">
@@ -43,5 +44,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
