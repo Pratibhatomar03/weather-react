@@ -12,7 +12,7 @@ export default function CurrentTemperature() {
         <br />
         <span> 🌨 9 </span>
         <span className="units">
-          <a href="#"> °C </a>|<a href="#"> °F </a>
+          <button> °C </button>|<button> °F </button>
           <br />
         </span>
         <span id="description"> Cloudy </span>
