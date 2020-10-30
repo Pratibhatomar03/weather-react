@@ -19,18 +19,24 @@ function App() {
           </div>
 
           <p>
-            Open-source on
+            Open-source on{" "}
             <a
               href="https://github.com/Pratibhatomar03/weather-react"
               target="_blank"
             >
-              GitHub
+              GitHub{" "}
             </a>
-            and hosted on
+            and hosted on{" "}
             <a href="https://sad-babbage-b8d06f.netlify.app" target="_blank">
-              Netlify
+              Netlify{" "}
             </a>
-            by Pratibha Tomar
+            by{" "}
+            <a
+              href="https://ecstatic-bassi-280461.netlify.app/"
+              target="_blank"
+            >
+              Pratibha Tomar
+            </a>
           </p>
         </div>
       </div>
