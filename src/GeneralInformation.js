@@ -13,6 +13,7 @@ export default function GeneralInformation() {
           </li>
           <li>
             Minimum Temperature: <span>4°C</span>
+          </li>
           <li>
             Feels Like: <span> 7°C </span>
           </li>

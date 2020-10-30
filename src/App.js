@@ -21,7 +21,7 @@ function App() {
           <p>
             Open-source on
             <a
-              href="https://github.com/Pratibhatomar03/vanilla-weather-application"
+              href="https://github.com/Pratibhatomar03/weather-react"
               target="_blank"
             >
               GitHub
